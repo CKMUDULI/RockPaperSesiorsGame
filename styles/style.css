@@ -1,0 +1,6 @@
+body{
+    text-align: center;
+    background-color: #212121;
+    color: aliceblue;
+    /* filter: invert(95%) hue-rotate(180deg); */
+}
